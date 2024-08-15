@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa1.1", "Tarefa1.1\Tarefa1.1.csproj", "{8519B66C-CC43-40B1-8E3F-8B3D3BE39B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa1.2", "Tarefa1.2\Tarefa1.2.csproj", "{1C75E2CD-2BF7-4BEB-9FF4-8BF9C6C38808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa", "Tarefa\Tarefa.csproj", "{1EAE668C-35EE-475A-BC65-CEE13C7228AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Primeira Parte", "Primeira Parte", "{2D71D5B0-5941-49FF-8641-D36C5F173C01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Segunda Parte", "Segunda Parte", "{93B4D8E2-4BEF-4FE3-A7F1-A3807DD10752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8519B66C-CC43-40B1-8E3F-8B3D3BE39B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8519B66C-CC43-40B1-8E3F-8B3D3BE39B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8519B66C-CC43-40B1-8E3F-8B3D3BE39B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8519B66C-CC43-40B1-8E3F-8B3D3BE39B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C75E2CD-2BF7-4BEB-9FF4-8BF9C6C38808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C75E2CD-2BF7-4BEB-9FF4-8BF9C6C38808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C75E2CD-2BF7-4BEB-9FF4-8BF9C6C38808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C75E2CD-2BF7-4BEB-9FF4-8BF9C6C38808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAE668C-35EE-475A-BC65-CEE13C7228AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAE668C-35EE-475A-BC65-CEE13C7228AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAE668C-35EE-475A-BC65-CEE13C7228AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAE668C-35EE-475A-BC65-CEE13C7228AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1C75E2CD-2BF7-4BEB-9FF4-8BF9C6C38808} = {2D71D5B0-5941-49FF-8641-D36C5F173C01}
+		{8519B66C-CC43-40B1-8E3F-8B3D3BE39B26} = {2D71D5B0-5941-49FF-8641-D36C5F173C01}
+		{1EAE668C-35EE-475A-BC65-CEE13C7228AB} = {93B4D8E2-4BEF-4FE3-A7F1-A3807DD10752}
+	EndGlobalSection
+EndGlobal

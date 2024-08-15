@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNQOEuhNREBY80N9J/suPMJemDS1IRW5YLsbp32VPAJIsnWfWqFDn5FSjdCmDJTM2qulzRPxX5ESA7PGOLN8bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro Delfino\\RiderProjects\\Fase 1 - Seguranca na nuvem\\Tarefa\\Tarefa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro Delfino\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

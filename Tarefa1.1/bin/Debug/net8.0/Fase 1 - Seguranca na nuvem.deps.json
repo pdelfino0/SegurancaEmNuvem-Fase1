@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fase 1 - Seguranca na nuvem/1.0.0": {
+        "runtime": {
+          "Fase 1 - Seguranca na nuvem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fase 1 - Seguranca na nuvem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

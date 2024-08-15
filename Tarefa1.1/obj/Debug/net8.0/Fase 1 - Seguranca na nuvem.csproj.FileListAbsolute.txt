@@ -1,0 +1,14 @@
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\bin\Debug\net8.0\Fase 1 - Seguranca na nuvem.exe
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\bin\Debug\net8.0\Fase 1 - Seguranca na nuvem.deps.json
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\bin\Debug\net8.0\Fase 1 - Seguranca na nuvem.runtimeconfig.json
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\bin\Debug\net8.0\Fase 1 - Seguranca na nuvem.dll
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\bin\Debug\net8.0\Fase 1 - Seguranca na nuvem.pdb
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.AssemblyInfoInputs.cache
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.AssemblyInfo.cs
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.dll
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\refint\Fase 1 - Seguranca na nuvem.dll
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.pdb
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\Fase 1 - Seguranca na nuvem.genruntimeconfig.cache
+C:\Users\Pedro Delfino\RiderProjects\Fase 1 - Seguranca na nuvem\Fase 1 - Seguranca na nuvem\obj\Debug\net8.0\ref\Fase 1 - Seguranca na nuvem.dll
